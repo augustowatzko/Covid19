@@ -131,7 +131,7 @@ paciente_vermelha(X) :-
     write(X),
     write('Grave(Vermelho): deve ser encaminhado para o hospital').
 
-
+%%Equipe: Augusto Watzko, Alex Nunes
 
 
 
